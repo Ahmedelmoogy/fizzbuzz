@@ -16,7 +16,7 @@ Your goal is to demonstrate your coding skills by creating a video recording of 
 - Create a notebook to demonstrate requests that POST to the container endpoint and print out the response
 - Please explain why you have chosen this model as your demonstration
 
-**The solution to this part is under MODEL DEPLOYMENT DEMONSTRATION folder, the predict flask application is at predict.py and I use the Docker file included. You can check the HTTP response at test_server.ipynb
+**The solution to this part is under MODEL DEPLOYMENT DEMONSTRATION folder, the predict flask application is at predict.py and I use the Docker file included. You can check the HTTP response at test_server.ipynb**
 
 # 3) EXPLORATORY DATA ANALYSIS DEMONSTRATION
 - Perform exploratory data analysis on any dataset in the huggingface datasets hub: https://huggingface.co/datasets
@@ -25,4 +25,4 @@ Your goal is to demonstrate your coding skills by creating a video recording of 
 - Document the process for using your updated repo in README.md so that we can try out your demo ourselves
 - Share the repo with the github users dcshapiro and elmathioso
 
-**The solution of this part is at EDA.ipynb
+**The solution of this part is at EDA.ipynb**
